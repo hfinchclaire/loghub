@@ -1,0 +1,197 @@
+EventId,EventTemplate,Occurences
+E1,*** info [[+].[NUM]([NUM])]:,6
+E2,ALERT exited abnormally with [1],49
+E3,Adding [+] swap on /dev/[+].  Priority:[NUM] extents:[NUM],1
+E4,Bluetooth: HCI device and connection manager initialized,1
+E5,Bluetooth: L[NUM]CAP socket layer initialized,2
+E6,Bluetooth: L[NUM]CAP ver [NUM].[NUM],3
+E7,Bluetooth: RFCOMM TTY layer initialized,1
+E8,Bluetooth: RFCOMM socket layer initialized,1
+E9,Charge: * * * ([NUM]% unknown),1
+E10,Closing,1
+E11,Configuration file /etc/smartd.conf parsed.,1
+E12,Connecting at [NUM] [NUM],1
+E13,Couldn't authenticate user,3
+E14,"Device: /dev/hda, found in smartd database.",1
+E15,"Device: /dev/hda, is SMART capable. Adding to ""monitor"" list.",1
+E16,"Device: /dev/hda, opened",1
+E17,Disabled Privacy Extensions on device [NUM](lo),1
+E18,"FAILED LOGIN [NUM] FROM (null) FOR nf, Authentication failure",1
+E19,"FAILED LOGIN [NUM] FROM (null) FOR root, Authentication failure",3
+E20,"FAILED LOGIN [STATE] FROM (null) FOR [*], Authentication failure",4
+E21,Floppy drive(s): [NUM] is [NUM].[+],1
+E22,Freeing initrd memory: [+] freed,1
+E23,Freeing unused kernel memory: [+] freed,1
+E24,Home page is http://smartmontools.sourceforge.net/,1
+E25,IA-[NUM] Microcode Update Driver: [+].[NUM] <tigran@veritas.com>,1
+E26,ICH: IDE controller at PCI slot [NUM]:[NUM]:[NUM].[NUM],1
+E27,ICH: chipset revision [NUM],1
+E28,ICH: not [NUM]%% native mode: will probe irqs later,1
+E29,"IP: routing cache hash table of [NUM] buckets, [+]",1
+E30,Initializing IPsec netlink socket,1
+E31,Jul [NUM] [NUM]:[NUM]:[NUM] Privoxy([NUM]) Info: loading configuration file '/etc/privoxy/config':,1
+E32,Linux agpgart interface [+].[NUM] ([NUM]) Dave Jones,1
+E33,Monitoring [NUM] ATA and [NUM] SCSI devices,1
+E34,Mounting other filesystems:  succeeded,1
+E35,NET-SNMP version [NUM].[NUM].[NUM],1
+E36,NET: Registered protocol family [STATE],5
+E37,No such internal service: services/stream - DISABLING,1
+E38,Opened configuration file /etc/smartd.conf,1
+E39,PCI: Found IRQ [STATE] for device [NUM]:[NUM]:[NUM].[NUM],3
+E40,RAMDISK driver initialized: [NUM] RAM disks of [+] size [NUM] blocksize,1
+E41,RAMDISK: Compressed image found at block [NUM],1
+E42,ROOT LOGIN ON [+],2
+E43,Real Time Clock Driver [+].[NUM],1
+E44,Request on [NUM] (console [NUM]),1
+E45,SCSI subsystem initialized,1
+E46,SELinux:  Disabled at runtime.,1
+E47,SELinux:  Unregistering netfilter hooks,1
+E48,"Serial: [NUM]/[NUM] driver $Revision: [NUM].[NUM] $ [NUM] ports, IRQ sharing enabled",1
+E49,Service telnet failed to start and is deactivated.,1
+E50,Squid Parent: child process [NUM] started,1
+E51,Started gpm successfully. Entered daemon mode.,1
+E52,Started working: [NUM] available services,1
+E53,Starting MySQL:  succeeded,2
+E54,Starting background readahead:,1
+E55,Starting hpoj:  succeeded,1
+E56,Starting readahead:  succeeded,1
+E57,Stopping MySQL:  succeeded,1
+E58,TCP: Hash tables configured (established [NUM] bind [NUM]),1
+E59,USB Universal Host Controller Interface driver [+].[NUM],1
+E60,Uniform Multi-Platform [NUM]-IDE driver Revision: [NUM].[+],1
+E61,Uniform [NUM]-ROM driver Revision: [NUM].[NUM],1
+E62,User unknown timed out after 900 seconds at Sat Aug [STATE] [NUM]:[NUM]:[NUM] 2005,8
+E63,User unknown timed out after 900 seconds at Sun Aug  [STATE] [NUM]:[NUM]:[NUM] 2005,1
+E64,Using cfq io scheduler,1
+E65,VFS: Mounted root ([+] filesystem).,1
+E66,"Version [NUM].[NUM].[NUM] (APM BIOS [NUM].[NUM], Linux driver [NUM].[NUM])",1
+E67,"[+] FS on hda[NUM], internal journal",2
+E68,[+] over [+] tunneling driver,1
+E69,[+] startup succeeded,19
+E70,[+]-fs: INFO: recovery required on readonly filesystem.,1
+E71,[+]-fs: mounted filesystem with ordered data mode.,2
+E72,[+]-fs: recovery complete.,1
+E73,[+]-fs: write access will [NUM] enabled during recovery.,1
+E74,[+].,8
+E75,[+]: Auto-detected intellimouse PS/[NUM],2
+E76,[+]: Donald Becker and others. www.scyld.com/network/vortex.html,2
+E77,"[+]: PC-style at [NUM] ([NUM]) [PCSPP,TRISTATE,EPP]",2
+E78,[+]: console ready,1
+E79,[+]: invalid character [STATE] in login name,1
+E80,[+]: irq [NUM] detected,2
+E81,[+]: using [+] (polling).,1
+E82,[NUM] [NUM] is [STATE] National Semiconductor [+],1
+E83,[NUM]:[NUM]:[NUM].[NUM]: [+] PCI [NUM] Tornado at [NUM]. Vers [+].[NUM].[NUM],2
+E84,[STATE] more authentication failures; logname= uid=[NUM] euid=0 tty=[+] ruser= rhost=ned.gcdtech.com  user=root,11
+E85,[STATE] more authentication failures; logname=LOGIN uid=[NUM] euid=0 tty=[+] ruser= rhost=  user=root,1
+E86,agpgart: AGP aperture is [+] @ [NUM],1
+E87,agpgart: Detected an Intel [+] [NUM] Chipset.,1
+E88,agpgart: Maximum main memory to use for agp memory: [+],1
+E89,agpgart: detected [+] dedicated video ram.,1
+E90,authentication failure; logname= uid=[NUM] euid=0 tty=[+] ruser= rhost=[+][*],567
+E91,authentication failure; logname= uid=[NUM] euid=0 tty=[+] ruser= rhost=[IP]  user=amanda,10
+E92,authentication failure; logname= uid=[NUM] euid=0 tty=[+] ruser= rhost=[IP]  user=webmaster,10
+E93,authentication failure; logname= uid=[NUM] euid=0 tty=[+] ruser= rhost=server.novacero.com  user=test,3
+E94,authentication failure; logname=LOGIN uid=[NUM] euid=0 tty=[+] ruser= rhost=  user=[+],1
+E95,authentication failure; logname=LOGIN uid=[NUM] euid=0 tty=[+] ruser= rhost=[+],1
+E96,bad username [  [*]],2
+E97,bad username [],5
+E98,bind failed (Address already in use (errno = [STATE])). service = telnet,1
+E99,cdrom: open failed.,1
+E100,check pass; user unknown,130
+E101,checking if image is initramfs...it isn't (no cpio magic); looks like an initrd,1
+E102,"configure: keyword ""authenticate"" unknown, line ignored",1
+E103,connection from [IP] () at Fri Aug [+] [NUM]:[NUM]:[NUM] 2005,16
+E104,connection from [IP] () at Fri Sep  [+] [NUM]:[NUM]:[NUM] 2005,23
+E105,connection from [IP] () at Mon Sep  [+] [NUM]:[NUM]:[NUM] 2005,42
+E106,connection from [IP] () at Sat Aug [*][+] [NUM]:[NUM]:[NUM] 2005,41
+E107,connection from [IP] () at Thu Aug [+] [NUM]:[NUM]:[NUM] 2005,14
+E108,connection from [IP] () at Tue Aug  [+] [NUM]:[NUM]:[NUM] 2005,44
+E109,connection from [IP] () at Tue Sep [+] [NUM]:[NUM]:[NUM] 2005,26
+E110,connection from [IP] () at Wed Aug [*][+] [NUM]:[NUM]:[NUM] 2005,68
+E111,connection from [IP] ([+]) at Fri Aug [STATE] [NUM]:[NUM]:[NUM] 2005,23
+E112,connection from [IP] ([+]) at Mon Aug [STATE] [NUM]:[NUM]:[NUM] 2005,23
+E113,connection from [IP] ([+]) at Mon Sep [STATE] [NUM]:[NUM]:[NUM] 2005,7
+E114,connection from [IP] ([+]) at Sat Aug [STATE] [NUM]:[NUM]:[NUM] 2005,40
+E115,connection from [IP] ([+]) at Sun Aug [*][STATE] [NUM]:[NUM]:[NUM] 2005,89
+E116,connection from [IP] ([+]) at Sun Sep  [STATE] [NUM]:[NUM]:[NUM] 2005,22
+E117,connection from [IP] ([+]) at Tue Aug [*][STATE] [NUM]:[NUM]:[NUM] 2005,62
+E118,connection from [IP] ([+]) at Tue Sep  [STATE] [NUM]:[NUM]:[NUM] 2005,25
+E119,connection from [IP] ([+]) at Wed Sep [*][STATE] [NUM]:[NUM]:[NUM] 2005,49
+E120,couldn't [NUM] command channel [*][NUM][?][NUM]#[NUM]: not found,2
+E121,creating device node '/udev/[+]',49
+E122,cupsd shutdown succeeded,7
+E123,cupsd startup succeeded,8
+E124,device-mapper: [NUM].[NUM].[NUM]-ioctl ([NUM][NUM][NUM]) initialised: dm@uk.sistina.com,1
+E125,drivers/usb/input/hid-core.[NUM]: [+].[NUM]:USB HID core driver,1
+E126,file descriptor of service comsat has been closed,1
+E127,frequency initialized [NUM].[NUM] PPM from /var/lib/ntp/drift,1
+E128,getpeername (ftpd): Transport endpoint is not connected,1
+E129,"hda: IBM-DTLA-[NUM], ATA DISK drive",1
+E130,hda: [+] [+] [+],1
+E131,"hda: [NUM] sectors ([NUM] MB) w/[+] Cache, CHS=[NUM]/[NUM]/[NUM], UDMA([NUM])",1
+E132,hda: max request size: [+],1
+E133,"hdc: ATAPI [+] [NUM]-ROM drive, [+] Cache",1
+E134,hdc: Disabling (U)DMA for SAMSUNG [NUM]-ROM SN-[NUM] (blacklisted),1
+E135,"hdc: SAMSUNG [NUM]-ROM SN-[NUM], ATAPI [NUM]/DVD-ROM drive",1
+E136,hub [NUM][NUM]:[NUM].[NUM]: USB hub found,1
+E137,hub [NUM][NUM]:[NUM].[NUM]: [NUM] ports detected,1
+E138,ide-floppy driver [NUM].[NUM].newide,1
+E139,ide: Assuming [+] system bus speed for PIO modes; override with idebus=xx,1
+E140,"ide[NUM] at [NUM][NUM],[NUM] on irq [STATE]",2
+E141,"ide[NUM]: BM-DMA at [NUM][NUM], BIOS settings: hda:DMA, hdb:pio",1
+E142,"ide[NUM]: BM-DMA at [NUM][NUM], BIOS settings: hdc:DMA, hdd:pio",1
+E143,input: AT Translated Set [NUM] keyboard on [+]/[+],1
+E144,input: ImPS/[NUM] Logitech Wheel Mouse on [+]/[+],1
+E145,inserting floppy driver for [NUM].[NUM].[NUM][NUM].[NUM],1
+E146,ip_tables: ([NUM]) [NUM][NUM] Netfilter core team,2
+E147,isapnp: No Plug & Play device found,1
+E148,kernel time sync disabled [NUM],1
+E149,kernel time sync enabled [NUM],1
+E150,kernel time sync status [NUM],1
+E151,kjournald starting.  Commit interval [NUM] seconds,2
+E152,"listening on IPv4 interface [+], [IP]#[NUM]",24
+E153,loading configuration from '/etc/named.conf',1
+E154,md: ... autorun DONE.,1
+E155,md: Autodetecting RAID arrays.,1
+E156,md: autorun ...,1
+E157,"md: md driver [NUM].[NUM].[NUM] MAX_MD_DEVS=[NUM], MD_SB_DISKS=[NUM]",1
+E158,mdadm succeeded,1
+E159,mdmpd failed,1
+E160,mice: PS/[NUM] mouse device common for all mice,1
+E161,microcode: No suitable data for cpu [NUM],1
+E162,microcode: [+] already at revision [NUM] (current=0x8),1
+E163,ntpd [NUM].[NUM].[NUM]@[NUM].[NUM]-r Thu Mar [NUM] [NUM]:[NUM]:[NUM] EST [NUM] ([NUM]),1
+E164,precision = [NUM].[NUM] usec,1
+E165,process `syslogd' is using obsolete setsockopt SO_BSDCOMPAT,1
+E166,removing device node '/udev/[+]',36
+E167,"rsyncd version [NUM].[NUM].[NUM] starting, listening on port [NUM]",1
+E168,running,1
+E169,select reported [NUM] but no [NUM] file descriptors were found,1
+E170,"serio: [+] AUX port at [NUM],[NUM] irq [STATE]",1
+E171,"serio: [+] KBD port at [NUM],[NUM] irq [STATE]",1
+E172,service(sshd) ignoring max retries; [STATE] > 3,11
+E173,session closed for user cyrus,49
+E174,session closed for user htt,1
+E175,session closed for user news,49
+E176,session closed for user root,10
+E177,session opened for user cyrus by ([?]uid=[NUM]),49
+E178,session opened for user htt by ([?]uid=[NUM]),1
+E179,session opened for user news by ([?]uid=[NUM]),49
+E180,session opened for user root by [*][?]uid=[NUM]),10
+E181,smartd has fork()[NUM] into background mode. New PID=[NUM].,1
+E182,smartd version [NUM].[NUM] Copyright ([NUM]) [NUM][NUM] Bruce Allen,1
+E183,starting BIND [NUM].[NUM].[NUM] -u named -t /var/named/chroot,1
+E184,succeeded,2
+E185,"synchronized to LOCAL([NUM]), stratum=[NUM]",1
+E186,ttloop:  peer died: Invalid or incomplete multibyte or wide character,22
+E187,ttloop:  read: Connection reset by peer,2
+E188,ttyS[NUM] at I/O [STATE] (irq = [STATE]) is [NUM] [NUM],2
+E189,uhci_hcd [NUM]:[NUM]:[NUM].[NUM]: UHCI Host Controller,1
+E190,"uhci_hcd [NUM]:[NUM]:[NUM].[NUM]: irq [STATE], io base [NUM]",1
+E191,"uhci_hcd [NUM]:[NUM]:[NUM].[NUM]: new USB bus registered, assigned bus number [NUM]",1
+E192,usbcore: registered new driver hid,1
+E193,usbcore: registered new driver hiddev,1
+E194,using [NUM] CPU,1
+E195,warning: can't get client address: Connection reset by peer,1
+E196,xinetd Version [NUM].[NUM].[NUM] started with libwrap loadavg options compiled in.,1
