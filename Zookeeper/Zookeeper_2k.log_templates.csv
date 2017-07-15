@@ -1,0 +1,51 @@
+EventId,EventTemplate,Occurences
+E1,Interrupted while waiting for message on queue,314
+E2,Received connection request /[IP]:[NUM],299
+E3,"Connection broken for id [NUM], my id = [NUM], error =",291
+E4,Interrupting SendWorker,266
+E5,Send worker leaving thread,262
+E6,Cannot open channel to [NUM] at election address /[IP]:[NUM],86
+E7,Established session [NUM] with negotiated timeout [NUM] for client /[IP]:[NUM],50
+E8,Accepted socket connection from /[IP]:[NUM],48
+E9,Processed session termination for sessionid: [NUM],47
+E10,Closed socket connection for client /[IP]:[NUM] which had sessionid [NUM],44
+E11,Client attempting to establish new session at /[IP]:[NUM],41
+E12,"Expiring session [NUM], timeout of [NUM]ms exceeded",40
+E13,Connection request from old client /[IP]:[NUM]; will be dropped if server is in r-o mode,39
+E14,Notification time out: [NUM],37
+E15,caught end of stream exception,37
+E16,******* GOODBYE /[IP]:[NUM] ********,19
+E17,Unexpected exception causing shutdown while sock still open,12
+E18,Server environment:[*]=[*],11
+E19,"Notification: [NUM] (n.leader), [NUM] (n.zxid), [NUM] (n.round), LOOKING (n.state), [NUM] (n.sid), [NUM] (n.peerEPoch), LOOKING (my state)",5
+E20,Closed socket connection for client /[IP]:[NUM] (no session established for client),4
+E21,LOOKING,4
+E22,Client attempting to renew session [NUM] at /[IP]:[NUM],3
+E23,Exception causing close of session [NUM] due to java.io.IOException: ZooKeeperServer not running,3
+E24,"Notification: [NUM] (n.leader), [NUM] (n.zxid), [NUM] (n.round), LOOKING (n.state), [NUM] (n.sid), [NUM] (n.peerEPoch), LEADING (my state)",3
+E25,Revalidating client: [NUM],3
+E26,autopurge.purgeInterval set to [NUM],3
+E27,FOLLOWING,2
+E28,FOLLOWING - LEADER ELECTION TOOK - [NUM],2
+E29,Getting a snapshot from leader,2
+E30,Snapshotting: [NUM] to [*],2
+E31,minSessionTimeout set to [NUM],2
+E32,First is [NUM],1
+E33,Follower sid: [NUM] : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@[*],1
+E34,Got user-level KeeperException when processing sessionid:[NUM] type:create cxid:[NUM] zxid:[NUM] txntype:[NUM] reqpath:[*] Error Path:[*] Error:KeeperErrorCode = NodeExists for [*],1
+E35,Have quorum of supporters; starting up and setting last processed zxid: [NUM],1
+E36,"Have smaller server identifier, so dropping the connection: ([NUM], [NUM])",1
+E37,My election bind port: [IP]/[IP]:[NUM],1
+E38,"New election. My id =  [NUM], proposed zxid=[NUM]",1
+E39,"Notification: [NUM] (n.leader), [NUM] (n.zxid), [NUM] (n.round), FOLLOWING (n.state), [NUM] (n.sid), [NUM] (n.peerEPoch), FOLLOWING (my state)",1
+E40,"Notification: [NUM] (n.leader), [NUM] (n.zxid), [NUM] (n.round), FOLLOWING (n.state), [NUM] (n.sid), [NUM] (n.peerEPoch), LEADING (my state)",1
+E41,"Notification: [NUM] (n.leader), [NUM] (n.zxid), [NUM] (n.round), LOOKING (n.state), [NUM] (n.sid), [NUM] (n.peerEPoch), FOLLOWING (my state)",1
+E42,"Notification: [NUM] (n.leader), [NUM] (n.zxid), [NUM] (n.round), LEADING (n.state), [NUM] (n.sid), [NUM] (n.peerEPoch), LOOKING (my state)",1
+E43,Reading snapshot [*],1
+E44,Sending DIFF,1
+E45,Starting quorum peer,1
+E46,Unexpected Exception:,1
+E47,autopurge.snapRetainCount set to [NUM],1
+E48,maxSessionTimeout set to [NUM],1
+E49,shutdown of request processor complete,1
+E50,tickTime set to [NUM],1

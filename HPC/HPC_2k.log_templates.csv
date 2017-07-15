@@ -1,0 +1,47 @@
+EventId,EventTemplate,Occurences
+E1,Linkerror event interval expired,394
+E2,ambient=[NUM],292
+E3,normal,206
+E4,warning,205
+E5,running,162
+E6,configured out,91
+E7,Fan speeds ( [NUM] [NUM] [NUM] **** [NUM] [NUM] ),79
+E8,boot  (command [NUM]),67
+E9,wait  (command [NUM]),66
+E10,not responding,60
+E11,link errors remain current,56
+E12,NIFF: node node-[NUM] has detected an available network connection on network [IP] via interface ee0,45
+E13,NIFF: node node-[NUM] has detected an available network connection on network [IP] via interface alt0,44
+E14,ClusterFileSystem: ServerFileSystem domain [*] is no longer served by node node-[NUM],36
+E15,ClusterFileSystem: There is no server for ServerFileSystem domain storage[NUM],32
+E16,critical,20
+E17,blocked,15
+E18,Link error,13
+E19,Link ok,13
+E20,Component State Change: Component [*] is in the unavailable state (HWID=[NUM]),12
+E21,ServerFileSystem: ServerFileSystem domain [*] is full,12
+E22,Fan speeds ( [NUM] [NUM] [NUM] [NUM] [NUM] [NUM] ),11
+E23,Command has completed successfully,10
+E24,Link in reset,9
+E25,Targeting domains:node-D[NUM] and nodes:node-[[NUM]-[NUM]] child of command [NUM],5
+E26,active,5
+E27,psu failure\ ambient=[NUM],5
+E28,Link error on broadcast tree Interconnect-[*]:[NUM]:[NUM]:[NUM],4
+E29,Targeting domains:node-D[*]and nodes:node-[*],4
+E30,inconsistent nodesets node-[NUM] [NUM] <ok> node-[NUM] [NUM] <ok> node-[NUM] [NUM] <ok> node-[NUM] [NUM] <ok>[*],4
+E31,halt  (command [NUM]),3
+E32,NIFF: node node-[NUM] detected a failed network connection on network [IP] via interface alt0,2
+E33,NIFF: node node-[NUM] has detected an available network connection on network [IP] via interface scip0,2
+E34,Temperature ([NUM]C) exceeds warning threshold,2
+E35,clusterAddMember  (command [NUM]),2
+E36,bootGenvmunix  (command [NUM]),2
+E37,Command has been aborted,1
+E38,Failed subcommands [NUM],1
+E39,ServerFileSystem: An ServerFileSystem domain panic has occurred on [*],1
+E40,not-responding,1
+E41,risBoot  (command [NUM]),1
+E42,boot (command [NUM]) Error: HALT asserted\  cannot continue,1
+E43,closing,1
+E44,power/control problem,1
+E45,risBoot (command [NUM]) Error: Timed out while waiting for SRM prompt: <ABORT code completed>,1
+E46,starting,1
