@@ -23,7 +23,7 @@ E21,creating device node '/udev/[*]',4
 E22,getpeername (ftpd): Transport endpoint is not connected,4
 E23,removing device node '/udev/[*]',4
 E24,BIOS-e820: [NUM] - [NUM] (reserved),3
-E25,gethostbyname error for [*],3
+E25,gethostbyname error for [*],2
 E26,"ANONYMOUS FTP LOGIN FROM [IP],  (anonymous)",2
 E27,BIOS-e820: [NUM] - [NUM] (usable),2
 E28,warning: can't get client address: Connection reset by peer,2
@@ -120,3 +120,4 @@ E118,session opened for user root by LOGIN(uid=0),1
 E119,usbcore: registered new driver hub,1
 E120,usbcore: registered new driver usbfs,1
 E121,zapping low mappings.,1
+E122,isapnp: No Plug & Play device found,1
