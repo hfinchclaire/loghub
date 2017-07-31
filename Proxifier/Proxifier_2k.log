@@ -1489,7 +1489,7 @@
 [07.26 17:24:02] Dropbox.exe - bolt.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
 [07.26 17:24:02] chrome.exe *64 - wpad:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
 [07.26 17:24:08] WeChat.exe - www.qq.com:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
-[07.26 17:24:10] (Automatic DNS mode detection) Local DNS service is available. Name Resolution through proxy is disabled.
+[07.26 17:24:09] WeChat.exe - short.weixin.qq.com:80 close, 357 bytes sent, 468 bytes received, lifetime <1 sec
 [07.26 17:27:41] YodaoDict.exe - dict.youdao.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
 [07.26 17:27:47] chrome.exe *64 - dj1.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:33
 [07.26 17:27:58] chrome.exe *64 - t11.baidu.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
@@ -1574,7 +1574,7 @@
 [07.26 18:05:22] chrome.exe *64 - f-log-extension.grammarly.io:443 close, 1363 bytes (1.33 KB) sent, 3549 bytes (3.46 KB) received, lifetime 00:33
 [07.26 18:05:22] chrome.exe *64 - clients4.google.com:443 close, 7063 bytes (6.89 KB) sent, 15399 bytes (15.0 KB) received, lifetime 00:21
 [07.26 18:05:24] chrome.exe *64 - trello.com:443 close, 2168 bytes (2.11 KB) sent, 605 bytes received, lifetime 00:34
-[07.26 18:05:25] (Automatic DNS mode detection) Local DNS service is unavailable. Name Resolution through proxy is enabled.
+[07.26 18:05:24] chrome.exe *64 - qa.sockets.stackexchange.com:443 close, 1603 bytes (1.56 KB) sent, 527 bytes received, lifetime 22:32
 [07.26 18:05:25] WeChat.exe - 203.205.151.204:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
 [07.26 18:55:22] SogouCloud.exe - get.sogou.com:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
 [07.26 18:55:22] WeChat.exe - 120.204.0.139:8080 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
