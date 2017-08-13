@@ -6,26 +6,26 @@ Logs currently available:
 ### Big data systems
 + [HDFS](./HDFS)
 + [Hadoop](./Hadoop)
-+ Spark
-+ Zookeeper
++ [Spark](./Spark)
++ [Zookeeper](./Zookeeper)
 
 ### Operating systems
-+ Windows
-+ Linux
-+ Mac
++ [Windows](./Windows)
++ [Linux](./Linux)
++ [Mac](./Mac)
 
 ### Web applications
-+ Apache
++ [Apache](./Apache)
 
 ### Mobile systems
 + Andriod (available soon)
 
 ### Supercomputers
-+ BGL
-+ HPC
-+ Thunderbird
++ [BGL](./BGL)
++ [HPC](./HPC)
++ [Thunderbird](./Thunderbird)
 
 ### On-premises software
-+ Proxifier
++ [Proxifier](./Proxifier)
 
 
