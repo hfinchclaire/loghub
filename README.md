@@ -5,12 +5,12 @@ Logs currently available:
 
 | One    | Two | Three | Four    | Five  | Six |
 | --- | --- | --- | --- | --- |  --- |
-| <td colspan=6>triple  
+<td colspan=6>triple  
 
 
 | Software System | Time Span | #Messages | Raw Size | Compressed Size (.tar.gz) |
 | --- | --- | --- | --- | --- |
-| Big data systems 
+Big data systems 
 | [HDFS](./HDFS) | xx | xx | xx | xx |
 | [Hadoop](./Hadoop) | xx | xx | xx | xx |
 | [Spark](./Spark) | xx | xx | xx | xx |
