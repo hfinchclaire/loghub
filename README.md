@@ -5,28 +5,28 @@ Logs currently available:
 
 
 | Software System | Dataset Name | Time Span | #Messages | Raw Size | Compressed Size (.tar.gz) |
-| --- | --- | --- | --- | --- |  --- |
+| --- | :---: | :---: | :---: | :---: | :---: |
 | Big data systems |
-| [HDFS](./HDFS) | HDFS-1 | xx | xx | xx | xx |
-|  | HDFS-2 | xx | xx | xx | xx |
-| [Hadoop](./Hadoop) | Hadoop | xx | xx | xx | xx |
-| [Spark](./Spark) | Spark-1 | xx | xx | xx | xx |
-|  | Spark-2 | xx | xx | xx | xx |
-| [Zookeeper](./Zookeeper) | Zookeeper | xx | xx | xx | xx |
+| [HDFS](./HDFS) | hdfs-1 | xx | xx | xx | xx |
+|  | hdfs-2 | xx | xx | xx | xx |
+| [Hadoop](./Hadoop) | hadoop | xx | xx | xx | xx |
+| [Spark](./Spark) | spark-1 | xx | xx | xx | xx |
+|  | spark-2 | xx | xx | xx | xx |
+| [Zookeeper](./Zookeeper) | zookeeper | xx | xx | xx | xx |
 | Operating systems |
-| [Windows](./Windows) | Windows | xx | xx | xx | xx |
-| [Linux](./Linux) | Linux | xx | xx | xx | xx |
-| [Mac](./Mac) | Mac | xx | xx | xx | xx |
+| [Windows](./Windows) | windows | xx | xx | xx | xx |
+| [Linux](./Linux) | linux | xx | xx | xx | xx |
+| [Mac](./Mac) | mac | xx | xx | xx | xx |
 | Web applications |
-| [Apache](./Apache) | Apache | xx | xx | xx | xx |
+| [Apache](./Apache) | apache | xx | xx | xx | xx |
 | Mobile systems |
-| Andriod (available soon) | Andriod | xx | xx | xx | xx |
+| Andriod (available soon) | andriod | xx | xx | xx | xx |
 | Supercomputers |
-| [BGL](./BGL) | BGL | xx | xx | xx | xx |
-| [HPC](./HPC) | HPC | xx | xx | xx | xx |
-| [Thunderbird](./Thunderbird) | Thunderbird | xx | xx | xx | xx |
+| [BGL](./BGL) | bgl | xx | xx | xx | xx |
+| [HPC](./HPC) | hpc | xx | xx | xx | xx |
+| [Thunderbird](./Thunderbird) | thunderbird | xx | xx | xx | xx |
 | On-premises software |
-| [Proxifier](./Proxifier) | Proxifier | xx | xx | xx | xx |
+| [Proxifier](./Proxifier) | proxifier | xx | xx | xx | xx |
 
 
 
