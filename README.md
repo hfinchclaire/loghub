@@ -4,28 +4,29 @@ Loghub maintains a collection of system logs, which are freely accessible for re
 Logs currently available:
 
 
-| Software System | Dataset ID | Time Span | #Messages | Raw Size | Compressed Size (.tar.gz) |
+| Software System | Dataset Name | Time Span | #Messages | Raw Size | Compressed Size (.tar.gz) |
 | --- | --- | --- | --- | --- |  --- |
 | Big data systems |
-| [HDFS](./HDFS) | #1 | xx | xx | xx | xx |
-|  | #2 | xx | xx | xx | xx |
-| [Hadoop](./Hadoop) | | xx | xx | xx | xx |
-| [Spark](./Spark) | | xx | xx | xx | xx |
-| [Zookeeper](./Zookeeper) |  | xx | xx | xx | xx |
+| [HDFS](./HDFS) | HDFS-1 | xx | xx | xx | xx |
+|  | HDFS-2 | xx | xx | xx | xx |
+| [Hadoop](./Hadoop) | Hadoop | xx | xx | xx | xx |
+| [Spark](./Spark) | Spark-1 | xx | xx | xx | xx |
+|  | Spark-2 | xx | xx | xx | xx |
+| [Zookeeper](./Zookeeper) | Zookeeper | xx | xx | xx | xx |
 | Operating systems |
-| [Windows](./Windows) | | xx | xx | xx | xx |
-| [Linux](./Linux) | | xx | xx | xx | xx |
-| [Mac](./Mac) | | xx | xx | xx | xx |
+| [Windows](./Windows) | Windows | xx | xx | xx | xx |
+| [Linux](./Linux) | Linux | xx | xx | xx | xx |
+| [Mac](./Mac) | Mac | xx | xx | xx | xx |
 | Web applications |
-| [Apache](./Apache) | | xx | xx | xx | xx |
+| [Apache](./Apache) | Apache | xx | xx | xx | xx |
 | Mobile systems |
-| Andriod (available soon) | | xx | xx | xx | xx |
+| Andriod (available soon) | Andriod | xx | xx | xx | xx |
 | Supercomputers |
-| [BGL](./BGL) | | xx | xx | xx | xx |
-| [HPC](./HPC) | | xx | xx | xx | xx |
-| [Thunderbird](./Thunderbird) | | xx | xx | xx | xx |
+| [BGL](./BGL) | BGL | xx | xx | xx | xx |
+| [HPC](./HPC) | HPC | xx | xx | xx | xx |
+| [Thunderbird](./Thunderbird) | Thunderbird | xx | xx | xx | xx |
 | On-premises software |
-| [Proxifier](./Proxifier) | | xx | xx | xx | xx |
+| [Proxifier](./Proxifier) | Proxifier | xx | xx | xx | xx |
 
 
 
