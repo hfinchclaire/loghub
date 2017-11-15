@@ -3,47 +3,29 @@ Loghub maintains a collection of system logs, which are freely accessible for re
 
 Logs currently available:
 
-| One    | Two | Three | Four    | Five  | Six |
-| --- |
-| Span <td colspan=3>triple  <td colspan=2>double 
-
 
 | Software System | Time Span | #Messages | Raw Size | Compressed Size (.tar.gz) |
 | --- | --- | --- | --- | --- |
-Big data systems 
+| Big data systems |
 | [HDFS](./HDFS) | xx | xx | xx | xx |
 | [Hadoop](./Hadoop) | xx | xx | xx | xx |
 | [Spark](./Spark) | xx | xx | xx | xx |
 | [Zookeeper](./Zookeeper) | xx | xx | xx | xx |
-| Operating systems 
+| Operating systems |
 | [Windows](./Windows) | xx | xx | xx | xx |
 | [Linux](./Linux) | xx | xx | xx | xx |
 | [Mac](./Mac) | xx | xx | xx | xx |
+| Web applications |
+| [Apache](./Apache) | xx | xx | xx | xx |
+| Web applications |
+| Andriod (available soon) | xx | xx | xx | xx |
+| Supercomputers |
+| [BGL](./BGL) | xx | xx | xx | xx |
+| [HPC](./HPC) | xx | xx | xx | xx |
+| [Thunderbird](./Thunderbird) | xx | xx | xx | xx |
+| On-premises software |
+| [Proxifier](./Proxifier) | xx | xx | xx | xx |
 
 
-### Big data systems
-+ [HDFS](./HDFS)
-+ [Hadoop](./Hadoop)
-+ [Spark](./Spark)
-+ [Zookeeper](./Zookeeper)
-
-### Operating systems
-+ [Windows](./Windows)
-+ [Linux](./Linux)
-+ [Mac](./Mac)
-
-### Web applications
-+ [Apache](./Apache)
-
-### Mobile systems
-+ Andriod (available soon)
-
-### Supercomputers
-+ [BGL](./BGL)
-+ [HPC](./HPC)
-+ [Thunderbird](./Thunderbird)
-
-### On-premises software
-+ [Proxifier](./Proxifier)
 
 
