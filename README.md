@@ -3,6 +3,18 @@ Loghub maintains a collection of system logs, which are freely accessible for re
 
 Logs currently available:
 
+|| Software System || Time Span || #Messages || Raw Size || Compressed Size (.tar.gz) ||
+|| Big data systems||
+|| [HDFS](./HDFS) || xx || xx || xx || xx ||
+|| [Hadoop](./Hadoop) || xx || xx || xx || xx ||
+|| [Spark](./Spark) || xx || xx || xx || xx ||
+|| [Zookeeper](./Zookeeper) || xx || xx || xx || xx ||
+|| Operating systems ||
+|| [Windows](./Windows) || xx || xx || xx || xx ||
+|| [Linux](./Linux) || xx || xx || xx || xx ||
+|| [Mac](./Mac) || xx || xx || xx || xx ||
+
+
 ### Big data systems
 + [HDFS](./HDFS)
 + [Hadoop](./Hadoop)
