@@ -7,26 +7,27 @@ Logs currently available:
 | Software System | Dataset Name | Time Span | #Messages | Raw Size | Compressed Size (.tar.gz) |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | Big data systems |
-| [HDFS](./HDFS) | hdfs-1 | xx | xx | xx | xx |
+| [HDFS](./HDFS) | hdfs-1 | 38.7 hours | 11,175,629 | 1.54GB | 152.01MB |
 |  | hdfs-2 | xx | xx | xx | xx |
-| [Hadoop](./Hadoop) | hadoop | xx | xx | xx | xx |
+| [Hadoop](./Hadoop) | hadoop | xx | xx | 49.78MB | 2.50MB |
 | [Spark](./Spark) | spark-1 | xx | xx | xx | xx |
 |  | spark-2 | xx | xx | xx | xx |
 | [Zookeeper](./Zookeeper) | zookeeper | xx | xx | xx | xx |
 | Operating systems |
-| [Windows](./Windows) | windows | xx | xx | xx | xx |
+| [Windows](./Windows) | windows | 226.7 days | 114,608,388 | 27.36GB | 1.63GB |
 | [Linux](./Linux) | linux | xx | xx | xx | xx |
 | [Mac](./Mac) | mac | xx | xx | xx | xx |
 | Web applications |
 | [Apache](./Apache) | apache | xx | xx | xx | xx |
-| Mobile systems |
+| Mobile systems |   
 | Andriod (available soon) | andriod | xx | xx | xx | xx |
 | Supercomputers |
-| [BGL](./BGL) | bgl | xx | xx | xx | xx |
+| [BGL](./BGL) | bgl | 214.7 days | 4,747,963 | 725.77MB | 61.46MB |
 | [HPC](./HPC) | hpc | xx | xx | xx | xx |
 | [Thunderbird](./Thunderbird) | thunderbird | xx | xx | xx | xx |
-| On-premises software |
+| **On-premises software** |
 | [Proxifier](./Proxifier) | proxifier | xx | xx | xx | xx |
+
 
 
 ### Publications using these datasets
@@ -38,6 +39,7 @@ Logs currently available:
 + [**KDD'09**] Adetokunbo Makanju, A. Nur Zincir-Heywood, Evangelos E. Milios. [Clustering Event Logs Using Iterative Partitioning](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.503.7668&rep=rep1&type=pdf). ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2009.
 + [**SOSP'09**] Wei Xu, Ling Huang, Armando Fox, David A. Patterson, Michael I. Jordan. [Detecting Large-Scale System Problems by Mining Console Logs](https://www.sigops.org/sosp/sosp09/papers/xu-sosp09.pdf). ACM Symposium on Operating Systems Principles (SOSP), 2009. 
 + [**DSN'07**] Adam J. Oliner, Jon Stearley. [What Supercomputers Say: A Study of Five System Logs](http://ieeexplore.ieee.org/document/4273008/). IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2007.
+
 
 
 ### License
